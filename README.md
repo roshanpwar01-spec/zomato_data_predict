@@ -48,7 +48,7 @@ This project analyzes a dataset of 148 restaurants to understand what drives cus
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/zomato-restaurant-analysis.git
+   git clone https://github.com/roshanpwar01-spec/zomato_data_predict.git
    ```
 2. Install dependencies
    ```bash
